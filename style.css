@@ -1,0 +1,25 @@
+.margin-top {
+    margin-top: 15vh;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+.card-height {
+    height: 70vh;
+}
+
+#arriba {
+    font-size: 10vh;
+}
+
+#medio {
+    font-size: 15vh;
+}
+
+#abajo {
+    font-size: 10vh;
+    transform: rotate(180deg);
+    transform-origin: left-top;
+}
